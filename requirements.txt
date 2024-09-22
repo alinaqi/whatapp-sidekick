@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai
+twilio
+python-dotenv
+python-multipart
+redis
+pydub
+redisvl
+numpy
+aiofiles
+requests

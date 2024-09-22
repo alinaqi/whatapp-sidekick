@@ -1,0 +1,5 @@
+venv/
+playground.py
+.env
+dump.rdb
+__pycache__/
